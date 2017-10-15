@@ -16,3 +16,18 @@
         color: #208820;
            font-size: 80px
       }
+
+       nav ul {      
+            list-style-type: none;       
+            background-color: #208820:      
+            border: 4px solid #111111;      
+            border-radious: 10px;      
+            font-family: comic sans MS;      
+            font-weight: bold;      
+            padding: 16px;      
+       }
+       nav ul li {
+            display: inline;     
+       }
+
+
