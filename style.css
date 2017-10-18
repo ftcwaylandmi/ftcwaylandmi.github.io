@@ -1,7 +1,4 @@
-     table, th, td {　　　 
-        border: 1px solid #006400;　　　 
-        border-spacing: 0px;
-      }
+     
       a:link {
         color: #208820;
         text-decoration: underline;
@@ -14,7 +11,7 @@
       }
       h1 {
         color: #208820;
-           font-size: 80px;
+        font-size: 80px;
       }
 
        nav ul {      
@@ -22,7 +19,7 @@
             background-color: #208820:      
             border: 4px solid #111111;      
             border-radious: 10px;      
-            font-family: comic sans MS;      
+            //font-family: comic sans MS;      
             font-weight: bold;      
             padding: 16px;      
        }
