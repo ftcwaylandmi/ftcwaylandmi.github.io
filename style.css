@@ -15,7 +15,7 @@
       }
 
       nav ul {      
-       //list-style-type: none;       
+       list-style-type: none;       
        background-color: #208820;
        border: 4px solid #111111;      
        border-radius: 10px;      
