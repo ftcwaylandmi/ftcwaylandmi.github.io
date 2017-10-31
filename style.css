@@ -23,7 +23,7 @@ nav ul {     
 }
 nav ul li {
        display: inline; 
-       border-right: 2px solid #208820;
+       border-right: 5px solid #208820;
        padding-right: 8px;
        padding-left: 8px;
 }
